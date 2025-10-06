@@ -1,4 +1,4 @@
-# Bias Point Analysis
+# 1. Bias Point Analysis
 
 Author: Amirhossein Hajizadeh
 
